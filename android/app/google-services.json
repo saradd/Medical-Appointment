@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "700399566948",
+    "project_id": "medical-booking-79711",
+    "storage_bucket": "medical-booking-79711.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:700399566948:android:1c279a634b8f635b665f71",
+        "android_client_info": {
+          "package_name": "com.medic.booking"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "700399566948-jgm8klbs8vnc3h2vqhvok76rn5lspva8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVhmYI_-4BG6QtmTfHCMhFui-cj07Q23Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "700399566948-jgm8klbs8vnc3h2vqhvok76rn5lspva8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

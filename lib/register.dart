@@ -149,7 +149,7 @@ class _RegisterState extends State<Register> {
             'address':_addressController.text,
             'speciality':_specialityController.text,
             'isDoctor':isSwitched,
-            'isVerified':isSwitched?false:null,
+            'isVerified':isSwitched?true:null,
             'profile':url,
             'indexList':isSwitched?indexing(_nameController.text):null,
             'specialityIndex':isSwitched?indexing(_specialityController.text):null,

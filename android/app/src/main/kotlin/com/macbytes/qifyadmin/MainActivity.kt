@@ -1,4 +1,4 @@
-package com.macbytes.qifyadmin
+package com.medic.booking
 
 import io.flutter.embedding.android.FlutterActivity
 
